@@ -1,4 +1,4 @@
-# pokemon-wiki
+# Watch the project on [Pokemon-Wiki](https://luv-makin.github.io/pokemon-wiki-edyst/index.html)
 
 # Pokemon Wiki
 
